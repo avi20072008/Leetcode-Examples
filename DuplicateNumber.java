@@ -1,5 +1,7 @@
 import java.util.Arrays;
 
+// Author : Avinash Patil
+
 public class DuplicateNumber {
     public static void main(String[] args) {
 
