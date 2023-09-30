@@ -1,3 +1,5 @@
+// Author : Avinash Patil
+
 public class FrequencyOfNumber {
     public static void main(String[] args) {
         findFrequency();
