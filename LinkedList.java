@@ -1,6 +1,7 @@
 import shared.Node;
-
 import java.util.Stack;
+
+// Author : Avinash Patil
 
 public class LinkedList {
 
